@@ -27,7 +27,9 @@ syedsadath7777777@gmail.com
 and also my linkedin account:    
 https://www.linkedin.com/in/syed-sadath-1bb252277/     
 
-![python logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png)
+<div style="text-align:center" "hight:100px"    
+  ![python logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png)
+</div>
 
 ## Let's learn Python together! ##
 
