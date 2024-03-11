@@ -22,7 +22,9 @@ As I progress in my Python learning journey, I encourage contributions from fell
 If you have any suggestions for improvement, find bugs, or want to add more programs, feel free to open an issue or submit a pull request.
 
 ## Contact
-If you have any questions or suggestions, feel free to contact me at    
-syedsadath7777777@gmail.com
+If you have any questions or suggestions, feel free to contact me by my gmail:    
+syedsadath7777777@gmail.com     
+and also my linkedin account:    
+https://www.linkedin.com/in/syed-sadath-1bb252277/
 
 ## Let's learn Python together! ##
