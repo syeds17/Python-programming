@@ -28,4 +28,4 @@ and also my linkedin account:
 https://www.linkedin.com/in/syed-sadath-1bb252277/
 
 ## Let's learn Python together! ##
-✌
+
