@@ -1,4 +1,4 @@
-### Welcome to My Python Programming Learning Repo! ###
+## Welcome to My Python Programming Learning Repo! ##
 
 ## Introduction
 Welcome to my repository where I'll be documenting my journey of learning Python programming. 
