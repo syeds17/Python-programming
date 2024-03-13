@@ -6,9 +6,9 @@ firstTerm=0
 secondTerm=1
 print("The Fibonacci series with",num,"term is : ")
 print(firstTerm,secondTerm,end=" ")
-for i in range (2,num):
+for i in range (2,num):                 #Creating a for loop 
     curTerm = firstTerm + secondTerm
     print(curTerm,end=" ")
-    firstTerm = secondTerm
+    firstTerm = secondTerm  #Defining the Fibonacci terms
     secondTerm = curTerm
 print()    
