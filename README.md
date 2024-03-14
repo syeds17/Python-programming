@@ -26,9 +26,9 @@ If you have any questions or suggestions, feel free to contact me by my gmail:
 syedsadath7777777@gmail.com     
 and also my linkedin account:    
 https://www.linkedin.com/in/syed-sadath-1bb252277/     
-
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python logo" width=100px height=100px>
-
+<p align="center">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python logo" width=100px height=100px >
+</p>
 
 ## Let's learn Python together! ##
 
