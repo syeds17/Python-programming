@@ -14,7 +14,7 @@ if not os.path.isdir(dirName):
 curDirectory = pathlib.Path(dirName)
 
 with zipfile.ZipFile("myZip.zip",mode="w") as archive:   #Converting into a ZipFile.
-    for filr_path in curDirectory.rglob("*"):
+    for file_path in curDirectory.rglob("*"):
         archive.write(file_path,arcname=file_path.relative_to(curDirectory))
 if os.path.isfile("myZip.zip"):           #Printing Result.
     print("Archive","myZip.zip","created successfully")
